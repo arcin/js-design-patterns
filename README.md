@@ -1,1 +1,1 @@
-This is a simple repository containing javascript implementations of various design patterns.
+This is a simple repository containing javascript implementations of various patterns.
